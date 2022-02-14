@@ -4,7 +4,8 @@
 
 ## Select ROI
   
-Select the region you want to process
+Select the region you want to process <br/>
+This application select polygon and save point
 
 ```
 python Select_roi.py
