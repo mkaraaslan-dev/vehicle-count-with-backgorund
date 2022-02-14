@@ -15,3 +15,4 @@ python Select_roi.py
 ```
 python detector.py
 ```
+![count_vehicle](https://github.com/KARAASLAN-AI/smart_traffic_analysis_1/blob/main/show_img%202022-02-13%2021-59-37.gif)
