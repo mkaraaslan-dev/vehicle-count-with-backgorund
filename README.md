@@ -5,8 +5,13 @@
 ## Select ROI
   
 Select the region you want to process <br/>
-This application select polygon and save point
-
+This application select polygon and save point <br/>
+<br/>
+### Operating instructions
+Left click, select point<br/>
+Right click to cancel the last selected point<br/>
+Mouse button down to show the changes<br/>
+Press "s" to save points<br/>
 ```
 python Select_roi.py
 ```
