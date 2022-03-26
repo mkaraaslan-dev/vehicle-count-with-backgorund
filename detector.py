@@ -86,7 +86,7 @@ while True:
 
             detections.append([x, y, w, h])
     
-    # 2. Object Tracking
+    
     boxes_ids = tracker.update(detections)
     for box_id in boxes_ids:
         x, y, w, h, id = box_id
