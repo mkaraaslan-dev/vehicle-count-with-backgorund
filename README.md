@@ -12,6 +12,7 @@ Left click, select point<br/>
 Right click to cancel the last selected point<br/>
 Mouse button down to show the changes<br/>
 Press "s" to save points<br/>
+
 ```
 python Select_roi.py
 ```
